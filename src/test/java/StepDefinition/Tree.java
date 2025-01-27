@@ -8,7 +8,7 @@ public class Tree {
 	@Given("User is in the Home page after logging in")
 	public void user_is_in_the_home_page_after_logging_in() {
 	    
-	    System.out.println("Hello Tree");
+	    System.out.println("Hello Trees");
 	}
 
 	@When("User clicks on Get Started button under the section Tree")

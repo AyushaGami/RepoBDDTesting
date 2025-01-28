@@ -1,7 +1,7 @@
-Feature: Auto-Generated Feature File
+Feature: Login Feature File
 
   Scenario: User have login and back to the home page
-    Given User can open Sign in page
+    Given User can open Sign in page ds-Algo 
     When User click sign in button
     Then User will be redirected to the in-page
 
